@@ -11,7 +11,6 @@ public class Test03 {
 		int numberOfTimes=0;
 		Scanner scanner=new Scanner(System.in);
 		while(true) {
-			
 			System.out.println("请输入一个整数：");
 			numberOfTimes++;
 			int number1 = scanner.nextInt();
